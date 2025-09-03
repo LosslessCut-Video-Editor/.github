@@ -1,7 +1,7 @@
 # LosslessCut – Trim and Cut Videos Without Quality Loss
 
 <p align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d0/64/13d06460-46ad-a277-79c3-83eb24128b8d/icon.png/1200x600bf.png" alt="LosslessCut Logo" width="150"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d0/64/13d06460-46ad-a277-79c3-83eb24128b8d/icon.png/1200x600bf.png" alt="LosslessCut Logo"/>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ Ideal for content creators, gamers, and video enthusiasts, it supports popular f
 
 ## ⚙️ System Requirements
 
-| OS           | Windows 10/11, macOS 10.14+, Linux Ubuntu 18.04+ |
+| OS           | Windows 10/11 |
 |--------------|--------------------------------------------------|
 | RAM          | 4 GB recommended                                 |
 | Storage      | 100 MB free space                                |
